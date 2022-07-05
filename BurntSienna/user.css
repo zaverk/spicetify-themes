@@ -105,3 +105,12 @@
 .RecentlyPlayedEmptyState__title {
 	font-weight: 600;
 }
+
+/* removes ad banner and "plan change" botton */
+.main-leaderboardComponent-container {
+	display: none;
+}
+
+.jjUWAm {
+	display: none;
+}
